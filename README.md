@@ -76,7 +76,7 @@ Open the main interface with `/trollgui` to access over 70 unique actions:
 This project is a **Reborn** version of the original "TrollingFreedom" plugin, maintained to keep the fun alive on
 modern Minecraft versions.
 
-* **Current Developer:** [NotDefined67](https://github.com/NotDefined67)
+* **Current Developer:** [Leo Madrassi](https://github.com/leomadrassidev)
 * **Forked From:** [Lumine1909's TrollingFreedom_Continue](https://github.com/Lumine1909/TrollingFreedom_Continue)
 * **Original Author:** [iAngry0 (Original TrollingFreedom)](https://github.com/iangry0/TrollingFreedom)
 * **AI Assistance:** Credits to **Gemini Flash** for logic generation and refactoring.
@@ -114,8 +114,8 @@ given below.
 
 ## 🛠️ Support & Links
 
-* **Source Code:** [GitHub Repository](https://github.com/NotDefined67/TrollingFreedomReborn)
-* **Report Bugs:** [GitHub Issues](https://github.com/NotDefined67/TrollingFreedomReborn/issues)
+* **Source Code:** [GitHub Repository](https://github.com/leomadrassidev/TrollingFreedomReborn)
+* **Report Bugs:** [GitHub Issues](https://github.com/leomadrassidev/TrollingFreedomReborn/issues)
 * **Developer Discord:** `uball`
 
 > [!NOTE]
